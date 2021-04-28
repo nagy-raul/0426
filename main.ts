@@ -62,6 +62,3 @@ input.onGesture(Gesture.Shake, function () {
         basic.showIcon(IconNames.Scissors)
     }
 })
-basic.forever(function () {
-	
-})
